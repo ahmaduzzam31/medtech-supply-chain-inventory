@@ -1,0 +1,117 @@
+sku,description,category,supplier_id,unit_cost_eur,quoted_lead_time_days,moq,shelf_life_months,single_source
+CMD-0001,ARM Cortex-M4 MCU,Microcontrollers & ICs,S07,14.26,91,1,0,False
+CMD-0002,ARM Cortex-M0+ MCU,Microcontrollers & ICs,S11,6.85,119,25,0,False
+CMD-0003,Bluetooth LE SoC,Microcontrollers & ICs,S11,21.49,119,10,0,False
+CMD-0004,ECG analog front end,Microcontrollers & ICs,S07,4.05,91,100,0,False
+CMD-0005,Power management IC,Microcontrollers & ICs,S07,5.63,91,50,0,False
+CMD-0006,Motor driver IC,Microcontrollers & ICs,S03,30.55,133,100,0,False
+CMD-0007,16-bit ADC,Microcontrollers & ICs,S03,19.39,133,50,0,False
+CMD-0008,Op-amp quad,Microcontrollers & ICs,S03,23.66,133,25,0,False
+CMD-0009,Flash memory 64Mb,Microcontrollers & ICs,S11,6.29,119,25,0,False
+CMD-0010,Isolated gate driver,Microcontrollers & ICs,S03,4.63,133,10,0,False
+CMD-0011,LDO regulator 3.3V,Microcontrollers & ICs,S07,8.08,91,25,0,False
+CMD-0012,Buck converter IC,Microcontrollers & ICs,S03,2.59,133,50,0,False
+CMD-0013,Real-time clock IC,Microcontrollers & ICs,S11,6.75,119,25,0,False
+CMD-0014,Wi-Fi module,Microcontrollers & ICs,S03,12.62,133,1,0,False
+CMD-0015,Secure element IC,Microcontrollers & ICs,S03,5.66,133,25,0,False
+CMD-0016,USB-C PD controller,Microcontrollers & ICs,S07,27.02,91,10,0,False
+CMD-0017,SpO2 optical sensor,Sensors,S11,12.69,77,50,0,False
+CMD-0018,Temperature sensor,Sensors,S02,37.92,56,10,0,False
+CMD-0019,Pressure transducer,Sensors,S11,7.25,77,25,0,False
+CMD-0020,Air-in-line ultrasonic sensor,Sensors,S04,5.03,70,100,0,False
+CMD-0021,Occlusion force sensor,Sensors,S04,4.94,70,50,0,False
+CMD-0022,3-axis accelerometer,Sensors,S02,17.18,56,10,0,False
+CMD-0023,Flow sensor,Sensors,S04,8.8,70,10,0,False
+CMD-0024,Hall effect sensor,Sensors,S04,3.31,70,25,0,False
+CMD-0025,NIBP pressure sensor,Sensors,S02,10.52,56,50,0,False
+CMD-0026,Ambient light sensor,Sensors,S04,5.96,70,50,0,False
+CMD-0027,Bioimpedance sensor,Sensors,S04,8.85,70,25,0,False
+CMD-0028,Humidity sensor,Sensors,S11,15.84,77,25,0,False
+CMD-0029,Drop detector,Sensors,S11,6.87,77,25,0,False
+CMD-0030,Gyroscope MEMS,Sensors,S11,23.19,77,1,0,False
+CMD-0031,PM-200 main board,Printed circuit boards,S01,9.69,28,25,0,False
+CMD-0032,PM-200 power board,Printed circuit boards,S01,5.15,28,25,0,False
+CMD-0033,ECG-W1 flex PCB,Printed circuit boards,S07,58.36,42,100,0,False
+CMD-0034,IP-50 control board,Printed circuit boards,S04,10.55,42,1,0,False
+CMD-0035,IP-50 motor board,Printed circuit boards,S01,9.37,28,50,0,False
+CMD-0036,Display interface board,Printed circuit boards,S04,12.36,42,25,0,False
+CMD-0037,Sensor daughter board,Printed circuit boards,S07,53.62,42,50,0,False
+CMD-0038,Charging dock PCB,Printed circuit boards,S01,21.49,28,100,0,False
+CMD-0039,Comms module PCB,Printed circuit boards,S07,51.99,42,1,0,False
+CMD-0040,LED indicator PCB,Printed circuit boards,S07,8.96,42,1,0,False
+CMD-0041,Li-ion 3.7V 2000mAh pack,Batteries,S05,5.63,105,1,24,True
+CMD-0042,Li-ion 3.7V 5000mAh pack,Batteries,S05,8.91,105,50,24,True
+CMD-0043,Coin cell CR2032,Batteries,S05,3.69,105,10,24,True
+CMD-0044,LiPo 3.7V 180mAh pouch,Batteries,S05,11.57,105,1,24,True
+CMD-0045,Backup NiMH 4.8V pack,Batteries,S05,8.99,105,25,24,True
+CMD-0046,Li-ion 7.4V 3400mAh pack,Batteries,S05,10.57,105,50,24,True
+CMD-0047,Resistor 0402 10k,Passive components,S04,0.296,35,5000,0,False
+CMD-0048,Resistor 0402 100R,Passive components,S10,0.3231,28,50,0,False
+CMD-0049,Resistor 0603 4k7,Passive components,S10,0.1056,28,1000,0,False
+CMD-0050,Resistor 0603 1M,Passive components,S10,0.075,28,250,0,False
+CMD-0051,Capacitor 0402 100nF,Passive components,S01,0.0236,21,5000,0,False
+CMD-0052,Capacitor 0402 10pF,Passive components,S01,0.2016,21,250,0,False
+CMD-0053,Capacitor 0603 1uF,Passive components,S04,0.0968,35,1,0,False
+CMD-0054,Capacitor 0805 10uF,Passive components,S10,0.1687,28,100,0,False
+CMD-0055,Capacitor 1206 47uF,Passive components,S04,0.0938,35,1,0,False
+CMD-0056,Inductor 0805 2.2uH,Passive components,S04,0.1015,35,5000,0,False
+CMD-0057,Inductor 1210 10uH,Passive components,S01,0.1124,21,50,0,False
+CMD-0058,Ferrite bead 0603 600R,Passive components,S04,0.1178,35,100,0,False
+CMD-0059,TVS diode SMBJ5.0,Passive components,S01,0.0281,21,1,0,False
+CMD-0060,Schottky diode SS34,Passive components,S04,0.0136,35,1,0,False
+CMD-0061,Zener diode 3.3V,Passive components,S01,0.0235,21,250,0,False
+CMD-0062,LED 0603 green,Passive components,S01,0.1139,21,250,0,False
+CMD-0063,LED 0603 red,Passive components,S01,0.0371,21,5000,0,False
+CMD-0064,Crystal 32.768kHz,Passive components,S01,0.0318,21,50,0,False
+CMD-0065,Crystal 16MHz,Passive components,S10,0.1155,28,1,0,False
+CMD-0066,MOSFET N-ch 30V,Passive components,S10,0.0573,28,1000,0,False
+CMD-0067,MOSFET P-ch 20V,Passive components,S04,0.3432,35,250,0,False
+CMD-0068,Fuse 0603 500mA,Passive components,S01,0.1562,21,1000,0,False
+CMD-0069,Thermistor NTC 10k,Passive components,S04,0.0222,35,5000,0,False
+CMD-0070,Resistor 0402 1k,Passive components,S04,0.141,35,250,0,False
+CMD-0071,Capacitor 0402 1nF,Passive components,S01,0.0355,21,5000,0,False
+CMD-0072,Resistor 0603 22R,Passive components,S01,0.093,21,1000,0,False
+CMD-0073,Capacitor 0603 4.7uF,Passive components,S04,0.0146,35,100,0,False
+CMD-0074,Varistor 14V,Passive components,S10,0.3496,28,100,0,False
+CMD-0075,BJT NPN SOT-23,Passive components,S10,0.0152,28,50,0,False
+CMD-0076,Resistor array 4x10k,Passive components,S04,0.0145,35,100,0,False
+CMD-0077,USB-C receptacle,Connectors & cables,S01,8.75,14,10,0,False
+CMD-0078,ECG lead wire set,Connectors & cables,S06,2.6,21,10,0,False
+CMD-0079,SpO2 extension cable,Connectors & cables,S06,3.53,21,10,0,False
+CMD-0080,Board-to-board connector,Connectors & cables,S06,5.53,21,1,0,False
+CMD-0081,FPC connector 24-pin,Connectors & cables,S06,0.5907,21,100,0,False
+CMD-0082,DC barrel jack,Connectors & cables,S01,2.32,14,50,0,False
+CMD-0083,Mains power cord EU,Connectors & cables,S06,0.7288,21,100,0,False
+CMD-0084,Mains power cord UK,Connectors & cables,S06,1.15,21,50,0,False
+CMD-0085,Wire harness PM-200,Connectors & cables,S06,10.56,21,1,0,False
+CMD-0086,Wire harness IP-50,Connectors & cables,S01,0.4679,14,1,0,False
+CMD-0087,Snap electrode connector,Connectors & cables,S01,0.6458,14,100,0,False
+CMD-0088,Pogo pin connector,Connectors & cables,S06,2.43,21,10,0,False
+CMD-0089,RJ45 jack,Connectors & cables,S01,9.49,14,100,0,False
+CMD-0090,Battery connector JST,Connectors & cables,S01,6.99,14,1,0,False
+CMD-0091,10.1in TFT touch display,Displays,S08,23.8,77,10,0,True
+CMD-0092,7in TFT display,Displays,S08,29.47,77,100,0,True
+CMD-0093,2.4in OLED display,Displays,S08,59.41,77,1,0,True
+CMD-0094,Touch panel controller,Displays,S08,74.09,77,50,0,True
+CMD-0095,LED backlight unit,Displays,S08,91.83,77,50,0,True
+CMD-0096,PM-200 front housing,Enclosures & plastics,S09,6.42,21,10,0,True
+CMD-0097,PM-200 rear housing,Enclosures & plastics,S09,9.27,21,50,0,True
+CMD-0098,IP-50 housing,Enclosures & plastics,S09,7.2,21,1,0,True
+CMD-0099,IP-50 door assembly,Enclosures & plastics,S09,2.32,21,25,0,True
+CMD-0100,ECG-W1 top shell,Enclosures & plastics,S09,4.94,21,1,0,True
+CMD-0101,ECG-W1 bottom shell,Enclosures & plastics,S09,3.7,21,50,0,True
+CMD-0102,Silicone keypad,Enclosures & plastics,S09,6.71,21,25,0,True
+CMD-0103,Light pipe,Enclosures & plastics,S09,4.18,21,25,0,True
+CMD-0104,Mounting bracket,Enclosures & plastics,S09,1.44,21,100,0,True
+CMD-0105,Gasket seal set,Enclosures & plastics,S09,2.08,21,100,0,True
+CMD-0106,Battery door,Enclosures & plastics,S09,10.42,21,10,0,True
+CMD-0107,Rubber feet set,Enclosures & plastics,S09,6.95,21,1,0,True
+CMD-0108,Tyvek pouch small,Sterile packaging,S12,1.56,7,10,36,True
+CMD-0109,Tyvek pouch large,Sterile packaging,S12,1.7,7,50,36,True
+CMD-0110,Blister tray ECG-W1,Sterile packaging,S12,0.192,7,1000,36,True
+CMD-0111,Shipper carton PM-200,Sterile packaging,S12,0.2926,7,5000,36,True
+CMD-0112,Shipper carton IP-50,Sterile packaging,S12,2.39,7,100,36,True
+CMD-0113,IFU leaflet,Sterile packaging,S12,0.2866,7,50,36,True
+CMD-0114,UDI label roll,Sterile packaging,S12,0.3431,7,250,36,True
+CMD-0115,Desiccant pack,Sterile packaging,S12,0.5566,7,1000,36,True
+CMD-0116,Hydrogel electrode pad,Sterile packaging,S12,0.3644,7,1,36,True
